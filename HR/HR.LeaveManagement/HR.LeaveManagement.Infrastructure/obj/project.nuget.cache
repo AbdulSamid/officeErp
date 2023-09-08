@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLOAKbHJnI28XBns1cohCmerKpTe6Ir3nkKe4+rSEdcvZMfrIXCuFiAd3SXBmPveYiXnaxvZnIHc1Bd5ZU9ziA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Projects\\OfficeErp\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Persistence.deps.json
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Persistence.dll
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Persistence.pdb
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.dll
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\refint\HR.LeaveManagement.Persistence.dll
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\HR.LeaveManagement.Persistence.pdb
+D:\Workspace\Projects\OfficeErp\HR\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net6.0\ref\HR.LeaveManagement.Persistence.dll
