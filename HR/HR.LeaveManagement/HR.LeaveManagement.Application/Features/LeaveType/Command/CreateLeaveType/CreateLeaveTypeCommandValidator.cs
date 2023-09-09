@@ -20,7 +20,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Command.CreateLeaveT
                 .MaximumLength(70).WithMessage("{PropertyName} must be fewer than 70 characters");
             RuleFor(p => p.DefaultDays)
                 .LessThan(100).WithMessage("{PropertyName} cannot excced 100")
-                .GreaterThan(1).WithMessage("{PropertyName} cannot be blank");
+                .GreaterThan(0).WithMessage("{PropertyName} cannot be blank");
             RuleFor(q => q)
 				.MustAsync(leaveTypeNameUnique)
 				.WithMessage("Leave type already exist");
