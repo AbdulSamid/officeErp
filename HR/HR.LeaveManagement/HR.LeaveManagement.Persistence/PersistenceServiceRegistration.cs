@@ -2,7 +2,6 @@
 using HR.LeaveManagement.Persistence.DatabaseContext;
 using HR.LeaveManagement.Persistence.Repository;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.SqlServer.Query.Internal;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 

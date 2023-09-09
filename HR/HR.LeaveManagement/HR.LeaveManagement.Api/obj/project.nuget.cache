@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9GNy7ELN0nzaRgdpTJOVg7BURVxrjAqj4oFKChPixq2KSFvdv9vdWNijxUF74+zEECNBkFq0uLnhEF0sxccgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Projects\\OfficeErp\\HR\\HR.LeaveManagement\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
